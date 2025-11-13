@@ -4,12 +4,7 @@
 This repository contains code for Todo app with react-redux.
 
 View Demo:
-
-
-
-
-
-
+https://to-do-app-alpha-three-20.vercel.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
